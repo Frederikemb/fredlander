@@ -2,33 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec340fa-74a0-41ce-82f2-8e038cd57996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/5fd3e05186177_v.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/5fd3e07de8aed_v.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/5fd3e07e0377a_v.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/5fd3e07f03865_v.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/5fd3e08b480cf_v.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/5fd3e08bc86a3_v.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/5fd3e18e36695_v.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08b074d9_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08c129d4_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08d1f053_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08d966f4_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08ddec84_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08e300f8_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08eb0039_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08eed357_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e09074ca7_v.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e090b213d_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e0913d6d0_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/5fd3e09187c7a_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/home.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/test.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gtm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/5fd3e0807ed48_v.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/5fd3e08087204_v.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/5fd3e082e06b6_v.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/5fd3e083148ca_v.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/5fd3e088dd686_v.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/5fd3e08928e21_v.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/5fd3e0899ce5d_v.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/5fd3e089dc690_v.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08a8702d_v.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08cd6ab4_v.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/5fd3e08f727f8_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/5fd3e090015b6_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/5fd3e0903b597_v.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/5fd3e08bc86a3_v.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/5fd3e08bc86a3_v.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/test.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/test.ejs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +47,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.16.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/fonts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Rune\AppData\Roaming\npm\node_modules\prettier" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Devel\Repos\Fredlanders\public\fonts" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Devel\Repos\Fredlanders\public\fonts" />
       <recent name="E:\Devel\Repos\Fredlanders\public\images" />
       <recent name="E:\Devel\Repos\Fredlanders\public" />
       <recent name="E:\Devel\Repos\Fredlanders\images" />
       <recent name="E:\Devel\Repos\Fredlanders\css" />
-      <recent name="E:\Devel\Repos\Fredlanders\views" />
     </key>
   </component>
   <component name="RunManager">
@@ -92,7 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607782362772</updated>
       <workItem from="1607782365295" duration="2457000" />
-      <workItem from="1607866181059" duration="7546000" />
+      <workItem from="1607866181059" duration="8720000" />
+      <workItem from="1607978148060" duration="3847000" />
     </task>
     <servers />
   </component>
@@ -100,6 +95,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="684" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607986588318">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="684" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1680.41.1680.1050@0.0.1920.1080" timestamp="1607986588318" />
     <state x="1032" y="249" key="FileChooserDialogImpl" timestamp="1607895125228">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
