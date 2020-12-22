@@ -24,5 +24,9 @@ app.get("/skincare", (req, res) => {
   res.render("test");
 });
 
+app.get("/about", (req, res) => {
+  res.render("about");
+});
+
 const PORT = process.env.PORT || 5000;
 app.listen(PORT);
